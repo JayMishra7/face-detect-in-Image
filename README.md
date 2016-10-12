@@ -1,5 +1,3 @@
-# face-detect-in-Image
-
 to  get previous reference 
 https://github.com/JayMishra7/color-detect-in-image
 
